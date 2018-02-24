@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>clarifai-example</groupId>
+    <artifactId>clarifai-example</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.clarifai.clarifai-api2</groupId>
+            <artifactId>core</artifactId>
+            <version>2.1.0</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.openimaj/core -->
+        <dependency>
+            <groupId>org.openimaj</groupId>
+            <artifactId>core</artifactId>
+            <version>1.3.5</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.openimaj/image-feature-extraction -->
+        <dependency>
+            <groupId>org.openimaj</groupId>
+            <artifactId>image-feature-extraction</artifactId>
+            <version>1.3.5</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.openimaj/core-image -->
+        <dependency>
+            <groupId>org.openimaj</groupId>
+            <artifactId>core-image</artifactId>
+            <version>1.3.5</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.openimaj/core-video -->
+        <dependency>
+            <groupId>org.openimaj</groupId>
+            <artifactId>core-video</artifactId>
+            <version>1.3.5</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.openimaj/image-local-features -->
+        <dependency>
+            <groupId>org.openimaj</groupId>
+            <artifactId>image-local-features</artifactId>
+            <version>1.3.5</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.openimaj/xuggle-video -->
+        <dependency>
+            <groupId>org.openimaj</groupId>
+            <artifactId>xuggle-video</artifactId>
+            <version>1.3.5</version>
+        </dependency>
+
+    </dependencies>
+
+
+</project>

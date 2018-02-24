@@ -1,0 +1,21 @@
+*************output\mainframes-shop\0_0.8803680981595092.jpg***********
+indoors - 0.9772632
+shelf - 0.9319337
+house - 0.9280907
+room - 0.9215028
+people - 0.9012633
+no person - 0.8974056
+adult - 0.87857157
+wardrobe - 0.87643385
+illustration - 0.8590464
+wall - 0.8517817
+still life - 0.849452
+furniture - 0.846994
+stock - 0.84696996
+door - 0.8444991
+table - 0.83445024
+cabinet - 0.83379555
+wear - 0.8336545
+collection - 0.8311603
+hanging - 0.8131945
+vertical - 0.81081873

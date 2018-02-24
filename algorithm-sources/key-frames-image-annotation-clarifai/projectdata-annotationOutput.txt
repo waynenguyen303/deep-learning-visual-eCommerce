@@ -1,0 +1,168 @@
+*************output\mainframes-man\0_0.0.jpg***********
+abstract - 0.9897522
+moon - 0.98679554
+art - 0.9782559
+no person - 0.97771126
+astronomy - 0.97488564
+eclipse - 0.97405833
+bird - 0.9651487
+sky - 0.96199614
+pattern - 0.9608113
+people - 0.9603781
+desktop - 0.9593529
+illustration - 0.95763874
+background - 0.9513972
+wallpaper - 0.9454077
+light - 0.94400716
+Luna - 0.93309945
+vector - 0.93192774
+dark - 0.9254749
+crescent - 0.9233107
+design - 0.9183923
+*************output\mainframes-man\1_0.0.jpg***********
+abstract - 0.99747103
+art - 0.9925147
+sky - 0.98544854
+illustration - 0.9791053
+background - 0.9716158
+bird - 0.96537924
+desktop - 0.96376675
+insubstantial - 0.96006215
+pattern - 0.95678
+wallpaper - 0.9538723
+vector - 0.9418428
+landscape - 0.940873
+design - 0.9403799
+no person - 0.9400016
+light - 0.93906665
+nature - 0.93457556
+moon - 0.93324995
+monochrome - 0.9317119
+texture - 0.9184325
+graphic - 0.9098524
+*************output\mainframes-man\230_0.007451564828614009.jpg***********
+man - 0.9857267
+one - 0.982345
+wear - 0.97097254
+portrait - 0.96829784
+people - 0.9611899
+adult - 0.9376484
+outdoors - 0.9271709
+winter - 0.9129993
+sunglasses - 0.9050021
+recreation - 0.9029728
+facial expression - 0.89561105
+fashion - 0.88800204
+looking - 0.88292754
+fine-looking - 0.8772501
+woman - 0.86414456
+blur - 0.8554915
+lid - 0.8537237
+leisure - 0.8397114
+competition - 0.8385056
+snow - 0.8370701
+*************output\mainframes-man\252_0.007451564828614009.jpg***********
+one - 0.9856961
+man - 0.9758253
+people - 0.97117233
+wear - 0.9576838
+outdoors - 0.95223624
+winter - 0.9476239
+adult - 0.947565
+competition - 0.9390519
+portrait - 0.9285413
+snow - 0.9240478
+recreation - 0.8955014
+action energy - 0.868629
+action - 0.8647915
+woman - 0.8524556
+sky - 0.8493277
+leisure - 0.82768095
+helmet - 0.8108047
+daylight - 0.8058965
+lid - 0.8032428
+motion - 0.80288374
+*************output\mainframes-man\285_0.00894187779433681.jpg***********
+one - 0.9810945
+man - 0.967734
+people - 0.9572251
+wear - 0.94391954
+adult - 0.936363
+helmet - 0.93245775
+competition - 0.9270495
+outdoors - 0.92329323
+portrait - 0.891615
+safety - 0.8830245
+recreation - 0.8763134
+lid - 0.86254215
+action energy - 0.8621022
+sky - 0.85113025
+veil - 0.8369397
+skill - 0.83021927
+daylight - 0.8227178
+no person - 0.82037115
+athlete - 0.8193538
+action - 0.79635566
+*************output\mainframes-man\2_0.0.jpg***********
+man - 0.9848014
+outdoors - 0.96682096
+one - 0.94643486
+people - 0.94195485
+portrait - 0.93697715
+wear - 0.92955136
+woman - 0.91673636
+fashion - 0.8959048
+sky - 0.89531654
+sunglasses - 0.89210546
+travel - 0.8800716
+fine-looking - 0.86380416
+summer - 0.86061984
+looking - 0.852291
+leisure - 0.84526634
+fair weather - 0.82870704
+recreation - 0.82223517
+adult - 0.82004714
+nature - 0.81852233
+fun - 0.8081298
+*************output\mainframes-man\62_0.00894187779433681.jpg***********
+one - 0.9874933
+man - 0.97584456
+portrait - 0.96741956
+people - 0.9632025
+wear - 0.9622526
+adult - 0.9417529
+outdoors - 0.92736053
+recreation - 0.9192665
+woman - 0.89272714
+winter - 0.88440186
+sunglasses - 0.85432327
+jacket - 0.85047543
+facial expression - 0.8500172
+fashion - 0.84471095
+blur - 0.8425991
+leisure - 0.8371378
+competition - 0.8220905
+looking - 0.8189329
+lid - 0.81593966
+action energy - 0.8121625
+*************output\mainframes-man\85_0.007451564828614009.jpg***********
+man - 0.9768441
+one - 0.96685696
+people - 0.9620836
+woman - 0.9566324
+outdoors - 0.9440691
+adult - 0.9412798
+wear - 0.93519545
+portrait - 0.9335834
+recreation - 0.9282857
+leisure - 0.89834774
+looking - 0.8884315
+winter - 0.8688698
+competition - 0.8649186
+blur - 0.85372615
+fashion - 0.8354818
+travel - 0.8066902
+facial expression - 0.800845
+side view - 0.7874596
+fun - 0.785598
+action energy - 0.7843001

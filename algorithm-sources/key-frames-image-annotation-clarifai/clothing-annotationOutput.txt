@@ -1,0 +1,21 @@
+*************output\mainframes-clothing\0_0.9368295589988082.jpg***********
+hanger - 0.99989486
+wear - 0.9997495
+shopping - 0.9996581
+shop - 0.9996015
+hanging - 0.9995843
+wardrobe - 0.9995084
+sale - 0.9994893
+stock - 0.9994658
+boutique - 0.9979744
+fashion - 0.99770784
+laundry - 0.9965949
+dress - 0.9944724
+option - 0.9943725
+rack - 0.99369156
+garment - 0.9903184
+market - 0.98989916
+bargain - 0.9891951
+apparel - 0.9840945
+mall - 0.97951746
+variation - 0.97802293

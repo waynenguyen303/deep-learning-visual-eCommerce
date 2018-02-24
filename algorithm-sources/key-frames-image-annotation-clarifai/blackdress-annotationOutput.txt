@@ -1,0 +1,357 @@
+*************output\mainframes-blackdress\0_0.0.jpg***********
+abstract - 0.9897522
+moon - 0.98679554
+art - 0.9782559
+no person - 0.97771126
+astronomy - 0.97488564
+eclipse - 0.97405833
+bird - 0.9651487
+sky - 0.96199614
+pattern - 0.9608113
+people - 0.9603781
+desktop - 0.9593529
+illustration - 0.95763874
+background - 0.9513972
+wallpaper - 0.9454077
+light - 0.94400716
+Luna - 0.93309945
+vector - 0.93192774
+dark - 0.9254749
+crescent - 0.9233107
+design - 0.9183923
+*************output\mainframes-blackdress\1_0.0.jpg***********
+abstract - 0.9897522
+moon - 0.98679554
+art - 0.9782559
+no person - 0.97771126
+astronomy - 0.97488564
+eclipse - 0.97405833
+bird - 0.9651487
+sky - 0.96199614
+pattern - 0.9608113
+people - 0.9603781
+desktop - 0.9593529
+illustration - 0.95763874
+background - 0.9513972
+wallpaper - 0.9454077
+light - 0.94400716
+Luna - 0.93309945
+vector - 0.93192774
+dark - 0.9254749
+crescent - 0.9233107
+design - 0.9183923
+*************output\mainframes-blackdress\2_0.0.jpg***********
+abstract - 0.9897522
+moon - 0.98679554
+art - 0.9782559
+no person - 0.97771126
+astronomy - 0.97488564
+eclipse - 0.97405833
+bird - 0.9651487
+sky - 0.96199614
+pattern - 0.9608113
+people - 0.9603781
+desktop - 0.9593529
+illustration - 0.95763874
+background - 0.9513972
+wallpaper - 0.9454077
+light - 0.94400716
+Luna - 0.93309945
+vector - 0.93192774
+dark - 0.9254749
+crescent - 0.9233107
+design - 0.9183923
+*************output\mainframes-blackdress\3_0.0.jpg***********
+abstract - 0.9897522
+moon - 0.98679554
+art - 0.9782559
+no person - 0.97771126
+astronomy - 0.97488564
+eclipse - 0.97405833
+bird - 0.9651487
+sky - 0.96199614
+pattern - 0.9608113
+people - 0.9603781
+desktop - 0.9593529
+illustration - 0.95763874
+background - 0.9513972
+wallpaper - 0.9454077
+light - 0.94400716
+Luna - 0.93309945
+vector - 0.93192774
+dark - 0.9254749
+crescent - 0.9233107
+design - 0.9183923
+*************output\mainframes-blackdress\4_0.0.jpg***********
+abstract - 0.9897522
+moon - 0.98679554
+art - 0.9782559
+no person - 0.97771126
+astronomy - 0.97488564
+eclipse - 0.97405833
+bird - 0.9651487
+sky - 0.96199614
+pattern - 0.9608113
+people - 0.9603781
+desktop - 0.9593529
+illustration - 0.95763874
+background - 0.9513972
+wallpaper - 0.9454077
+light - 0.94400716
+Luna - 0.93309945
+vector - 0.93192774
+dark - 0.9254749
+crescent - 0.9233107
+design - 0.9183923
+*************output\mainframes-blackdress\5_0.0.jpg***********
+abstract - 0.98980856
+moon - 0.9869056
+art - 0.97821665
+no person - 0.9772534
+astronomy - 0.975119
+eclipse - 0.974375
+bird - 0.965237
+sky - 0.96296114
+pattern - 0.9610044
+people - 0.960497
+desktop - 0.9603716
+illustration - 0.95752645
+background - 0.95235837
+wallpaper - 0.9457395
+light - 0.94544315
+Luna - 0.9333459
+vector - 0.93178475
+dark - 0.9256506
+crescent - 0.9233029
+design - 0.9187693
+*************output\mainframes-blackdress\6_0.0.jpg***********
+abstract - 0.9880176
+people - 0.97825736
+desktop - 0.97658324
+dark - 0.9751692
+moon - 0.97305924
+art - 0.97169554
+portrait - 0.9669026
+background - 0.9658654
+pattern - 0.96039546
+texture - 0.9363804
+wallpaper - 0.9332096
+no person - 0.9249141
+light - 0.9244838
+monochrome - 0.9145757
+adult - 0.9139431
+insubstantial - 0.9019073
+vector - 0.89914745
+design - 0.8970867
+silhouette - 0.89426327
+blur - 0.8753875
+*************output\mainframes-blackdress\7_0.0.jpg***********
+dark - 0.9819958
+light - 0.9707074
+art - 0.9695041
+shadow - 0.95233333
+spotlight - 0.94917214
+silhouette - 0.9136754
+people - 0.9126185
+texture - 0.8994837
+stage - 0.88212687
+backlit - 0.8648076
+eerie - 0.8593048
+theater - 0.82903934
+no person - 0.8276881
+desktop - 0.82449085
+old - 0.8097015
+abstract - 0.8038902
+insubstantial - 0.80095255
+mystery - 0.79958236
+blur - 0.78591377
+wall - 0.7841729
+*************output\mainframes-blackdress\873_0.0.jpg***********
+abstract - 0.99295527
+moon - 0.9923786
+astronomy - 0.98955107
+eclipse - 0.9879041
+art - 0.98460674
+sky - 0.9811907
+bird - 0.9802644
+illustration - 0.9785459
+no person - 0.9760582
+light - 0.9734517
+people - 0.9725621
+portrait - 0.9721642
+pattern - 0.96646273
+desktop - 0.9654343
+vector - 0.955444
+Luna - 0.9515208
+background - 0.9487996
+crescent - 0.9474491
+wallpaper - 0.94376135
+adult - 0.9264195
+*************output\mainframes-blackdress\874_0.0.jpg***********
+abstract - 0.9897522
+moon - 0.98679554
+art - 0.9782559
+no person - 0.97771126
+astronomy - 0.97488564
+eclipse - 0.97405833
+bird - 0.9651487
+sky - 0.96199614
+pattern - 0.9608113
+people - 0.9603781
+desktop - 0.9593529
+illustration - 0.95763874
+background - 0.9513972
+wallpaper - 0.9454077
+light - 0.94400716
+Luna - 0.93309945
+vector - 0.93192774
+dark - 0.9254749
+crescent - 0.9233107
+design - 0.9183923
+*************output\mainframes-blackdress\875_0.0.jpg***********
+abstract - 0.9897522
+moon - 0.98679554
+art - 0.9782559
+no person - 0.97771126
+astronomy - 0.97488564
+eclipse - 0.97405833
+bird - 0.9651487
+sky - 0.96199614
+pattern - 0.9608113
+people - 0.9603781
+desktop - 0.9593529
+illustration - 0.95763874
+background - 0.9513972
+wallpaper - 0.9454077
+light - 0.94400716
+Luna - 0.93309945
+vector - 0.93192774
+dark - 0.9254749
+crescent - 0.9233107
+design - 0.9183923
+*************output\mainframes-blackdress\876_0.0.jpg***********
+abstract - 0.9897522
+moon - 0.98679554
+art - 0.9782559
+no person - 0.97771126
+astronomy - 0.97488564
+eclipse - 0.97405833
+bird - 0.9651487
+sky - 0.96199614
+pattern - 0.9608113
+people - 0.9603781
+desktop - 0.9593529
+illustration - 0.95763874
+background - 0.9513972
+wallpaper - 0.9454077
+light - 0.94400716
+Luna - 0.93309945
+vector - 0.93192774
+dark - 0.9254749
+crescent - 0.9233107
+design - 0.9183923
+*************output\mainframes-blackdress\877_0.0.jpg***********
+abstract - 0.9897522
+moon - 0.98679554
+art - 0.9782559
+no person - 0.97771126
+astronomy - 0.97488564
+eclipse - 0.97405833
+bird - 0.9651487
+sky - 0.96199614
+pattern - 0.9608113
+people - 0.9603781
+desktop - 0.9593529
+illustration - 0.95763874
+background - 0.9513972
+wallpaper - 0.9454077
+light - 0.94400716
+Luna - 0.93309945
+vector - 0.93192774
+dark - 0.9254749
+crescent - 0.9233107
+design - 0.9183923
+*************output\mainframes-blackdress\878_0.0.jpg***********
+abstract - 0.9897522
+moon - 0.98679554
+art - 0.9782559
+no person - 0.97771126
+astronomy - 0.97488564
+eclipse - 0.97405833
+bird - 0.9651487
+sky - 0.96199614
+pattern - 0.9608113
+people - 0.9603781
+desktop - 0.9593529
+illustration - 0.95763874
+background - 0.9513972
+wallpaper - 0.9454077
+light - 0.94400716
+Luna - 0.93309945
+vector - 0.93192774
+dark - 0.9254749
+crescent - 0.9233107
+design - 0.9183923
+*************output\mainframes-blackdress\879_0.0.jpg***********
+abstract - 0.9897522
+moon - 0.98679554
+art - 0.9782559
+no person - 0.97771126
+astronomy - 0.97488564
+eclipse - 0.97405833
+bird - 0.9651487
+sky - 0.96199614
+pattern - 0.9608113
+people - 0.9603781
+desktop - 0.9593529
+illustration - 0.95763874
+background - 0.9513972
+wallpaper - 0.9454077
+light - 0.94400716
+Luna - 0.93309945
+vector - 0.93192774
+dark - 0.9254749
+crescent - 0.9233107
+design - 0.9183923
+*************output\mainframes-blackdress\8_0.0.jpg***********
+dark - 0.9872538
+light - 0.970706
+no person - 0.96816826
+shadow - 0.9674526
+eerie - 0.94902974
+silhouette - 0.9329418
+art - 0.927143
+people - 0.92444015
+indoors - 0.9212802
+abandoned - 0.91105443
+step - 0.871606
+architecture - 0.84912586
+stage - 0.83444655
+old - 0.8212968
+reflection - 0.82028586
+mystery - 0.81463337
+backlit - 0.81218004
+room - 0.80948794
+spotlight - 0.8052447
+skittish - 0.8012823
+*************output\mainframes-blackdress\9_0.0056179775280898875.jpg***********
+dark - 0.9847102
+no person - 0.98323786
+shadow - 0.9805607
+light - 0.9773624
+step - 0.9754913
+people - 0.9605168
+indoors - 0.9538821
+abandoned - 0.93526804
+eerie - 0.93232834
+silhouette - 0.9276849
+architecture - 0.922876
+subway system - 0.9201393
+tunnel - 0.9107689
+bridge - 0.88764626
+art - 0.88124925
+building - 0.8792666
+concrete - 0.8737978
+city - 0.8728879
+industry - 0.87202746
+hallway - 0.8597001
