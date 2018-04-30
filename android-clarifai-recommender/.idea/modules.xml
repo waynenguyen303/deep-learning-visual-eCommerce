@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/android-clarifai-spark-object detection.iml" filepath="$PROJECT_DIR$/android-clarifai-spark-object detection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-clarifai-recommender.iml" filepath="$PROJECT_DIR$/android-clarifai-recommender.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
