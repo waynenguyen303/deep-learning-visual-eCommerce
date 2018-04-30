@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bl"
+    tools:context="com.example.waynage7.CS5542_lab3.product_search">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <EditText
+            android:id="@+id/edittext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:padding="10sp"
+            android:text="" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/edittext"
+            android:padding="10sp"
+            android:text="Click To Start Search" />
+
+        <ProgressBar
+            android:id="@+id/pb_loading_indicator"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_below="@+id/button"
+            android:visibility="gone" />
+
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:layout_below="@+id/button"
+            android:layout_centerHorizontal="true"
+            android:maxLines="1000"
+            android:padding="10sp"
+            android:scrollbars="vertical"
+            android:text="Amazon Results"
+            android:textColor="#CC2200"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@id/textView1"
+            android:maxLines="1000"
+            android:padding="10sp"
+            android:scrollbars="vertical"
+            android:text="Google Results"
+            android:textColor="#CC2200"
+            android:textSize="14dp" />
+
+        <Button
+            android:id="@+id/backbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:text="Back to Main Page" />
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

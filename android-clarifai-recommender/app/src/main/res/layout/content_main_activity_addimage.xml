@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.waynage7.CS5542_lab3.MainActivity_addimage"
+    tools:showIn="@layout/activity_main_addimage"
+    android:background="@drawable/bl">
+
+    <TextView
+        android:id="@+id/lbl_Header"
+        android:layout_width="wrap_content"
+        android:layout_height="44dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center_horizontal"
+        android:text="Image Feature Classifier"
+        android:textColor="#000"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/chosenImage"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.111" />
+
+    <ImageView
+        android:id="@+id/chosenImage"
+        android:layout_width="374dp"
+        android:layout_height="217dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="60dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/feature"
+        android:layout_width="151dp"
+        android:layout_height="51dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="8dp"
+        android:layout_weight="2"
+        android:gravity="center_horizontal"
+        android:scrollbars="vertical"
+        android:text=" "
+        android:textColor="#000"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/feature1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chosenImage"
+        app:layout_constraintVertical_bias="0.0"
+        app:layout_constraintVertical_chainStyle="spread_inside" />
+
+    <TextView
+        android:id="@+id/feature1"
+        android:layout_width="151dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="32dp"
+        android:layout_weight="2"
+        android:gravity="center_horizontal"
+        android:scrollbars="vertical"
+        android:text=" "
+        android:textColor="#000"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/feature2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/feature"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/feature2"
+        android:layout_width="151dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="32dp"
+        android:layout_weight="2"
+        android:gravity="center_horizontal"
+        android:scrollbars="vertical"
+        android:text=" "
+        android:textColor="#000"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/feature1"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/probability"
+        android:layout_width="149dp"
+        android:layout_height="51dp"
+        android:layout_marginStart="216dp"
+        android:layout_marginTop="12dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:scrollbars="vertical"
+        android:text=" "
+        android:textColor="#000"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/probability1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chosenImage"
+        app:layout_constraintVertical_bias="0.0"
+        app:layout_constraintVertical_chainStyle="spread_inside" />
+
+    <TextView
+        android:id="@+id/probability1"
+        android:layout_width="149dp"
+        android:layout_height="52dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="216dp"
+        android:layout_marginTop="8dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:scrollbars="vertical"
+        android:text=" "
+        android:textColor="#000"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/probability2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/probability"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/probability2"
+        android:layout_width="149dp"
+        android:layout_height="46dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="216dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:scrollbars="vertical"
+        android:text=" "
+        android:textColor="#000"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/probability1"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="Tap Camera Icon To Get Image"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chosenImage"
+        app:layout_constraintVertical_bias="0.954" />
+
+
+</android.support.constraint.ConstraintLayout>
