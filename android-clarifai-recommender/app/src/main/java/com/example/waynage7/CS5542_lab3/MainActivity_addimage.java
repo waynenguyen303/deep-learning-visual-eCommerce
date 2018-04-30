@@ -220,9 +220,9 @@ public class MainActivity_addimage extends AppCompatActivity {
         List<Concept> feature1 = pred1.get(0).data();
         List<Color> feature2 = pred2.get(0).data();
 
-        System.out.println(feature.get(0).concepts().get(0).name());
-        System.out.println(feature1.get(0).name());
-        System.out.println(feature2.get(0).webSafeColorName());
+        //System.out.println(feature.get(0).concepts().get(0).name());
+        //System.out.println(feature1.get(0).name());
+        //zzzzSystem.out.println(feature2.get(0).webSafeColorName());
 
         String feat = "Apparel Type:\n";
         String prob = "Accuracy:\n";
