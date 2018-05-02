@@ -21,6 +21,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
@@ -38,6 +39,12 @@ import clarifai2.dto.model.output.ClarifaiOutput;
 import clarifai2.dto.prediction.Color;
 import clarifai2.dto.prediction.Concept;
 import clarifai2.dto.prediction.Logo;
+
+import com.google.android.gms.auth.api.Auth;
+import com.google.android.gms.common.api.ResultCallback;
+import com.google.android.gms.common.api.Status;
+import com.google.android.gms.plus.Plus;
+import static com.example.waynage7.CS5542_lab3.MainActivity.googleApiclient;
 
 
 public class MainActivity_addimage extends AppCompatActivity {
@@ -59,6 +66,7 @@ public class MainActivity_addimage extends AppCompatActivity {
         chosenImage =(ImageView) findViewById(R.id.chosenImage);
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        FloatingActionButton fab1 = (FloatingActionButton) findViewById(R.id.fab1);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -67,6 +75,27 @@ public class MainActivity_addimage extends AppCompatActivity {
                 SelectImage();
             }
         });
+
+        fab1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                goTomain();
+            }
+        });
+    }
+
+
+    public void goTomain(){
+        //This code redirects the from home page to the mainActivity page.
+        if(googleApiclient.isConnected()){
+            Auth.GoogleSignInApi.signOut(googleApiclient);
+            googleApiclient.disconnect();
+            googleApiclient.connect();
+        }
+        Toast.makeText(this,"LogOut Successful",Toast.LENGTH_SHORT).show();
+        Intent redirect = new Intent(this, MainActivity.class);
+        startActivity(redirect);
+        finish();
     }
 
     // camera icon button selector

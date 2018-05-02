@@ -35,4 +35,7 @@ dependencies {
     //compile 'org.tensorflow:tensorflow-lite:+'
     //compile 'com.google.apis:google-api-services-kgsearch:v1-rev230-1.23.0'
     compile 'com.miguelcatalan:materialsearchview:1.4.0'
+    compile 'com.google.android.gms:play-services-auth:9.8.0'
+    compile 'com.google.android.gms:play-services-plus:9.8.0'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
 }

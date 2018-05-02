@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.waynage7.CS5542_lab3.MainActivity"
+    tools:showIn="@layout/activity_main">
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/txt_uname"
+        android:hint="Username/Email"
+        android:layout_marginTop="24dp"
+        android:layout_below="@+id/lbl_Header"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/txt_Pwd"
+        android:hint="Password"
+        android:layout_below="@+id/txt_uname"
+        android:layout_alignLeft="@+id/txt_uname"
+        android:layout_alignStart="@+id/txt_uname"
+        android:layout_marginTop="31dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign in"
+        android:id="@+id/btn_login"
+        android:layout_marginTop="24dp"
+        android:onClick="checkCredentials"
+        android:layout_below="@+id/txt_Pwd"
+        android:layout_alignLeft="@+id/txt_Pwd"
+        android:layout_alignStart="@+id/txt_Pwd"
+        android:layout_marginLeft="13dp"
+        android:layout_marginStart="13dp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:id="@+id/btn_register"
+        android:layout_above="@+id/lbl_Error"
+        android:layout_toRightOf="@+id/btn_login"
+        android:layout_toEndOf="@+id/btn_login"
+        android:layout_marginLeft="13dp"
+        android:layout_marginStart="13dp"
+        android:onClick="goToregister"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Royals E-Recommender Login"
+        android:gravity="center_horizontal"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:id="@+id/lbl_Header"
+        android:textColor="#000"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:gravity="center"
+        android:text="Please enter valid username and password or Register"
+        android:id="@+id/lbl_Error"
+        android:visibility="invisible"
+        android:textColor="#e12c2c"
+        android:layout_marginTop="21dp"
+        android:layout_below="@+id/btn_login"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:gravity="center"
+        android:text="Sign In with Google+"
+        android:textColor="#000"
+        android:id="@+id/textView"
+        android:layout_below="@+id/lbl_Error"
+        android:layout_centerHorizontal="true" />
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/bn_loginGoogle"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_weight="0.04"
+        android:layout_below="@+id/textView"
+        android:layout_alignRight="@+id/textView"
+        android:layout_alignEnd="@+id/textView"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignStart="@+id/textView"></com.google.android.gms.common.SignInButton>
+
+
+</RelativeLayout>
